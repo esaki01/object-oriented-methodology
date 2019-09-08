@@ -1,8 +1,8 @@
 # Object Oriented Programming Java
-This is for understanding "Object Oriented Programming".
+This is for understanding "object oriented programming".
 
 ## Details
-To deepen the understanding of "Object Oriented Programming", refactor the implementation as "Structured Programming".
+To deepen the understanding of "object oriented programming", refactor the implementation as "structured programming".
 
 ## Java Version
 - Java 8
