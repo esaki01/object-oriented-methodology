@@ -1,7 +1,7 @@
-package objectoriented.janken.version3.tactics.impl;
+package janken.version4.tactics.impl;
 
-import objectoriented.janken.version3.Player;
-import objectoriented.janken.version3.tactics.Tactics;
+import janken.version4.Player;
+import janken.version4.tactics.Tactics;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

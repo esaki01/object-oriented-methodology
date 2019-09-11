@@ -1,4 +1,4 @@
-package objectoriented.janken.version3.tactics;
+package janken.version4.tactics;
 
 /**
  * ジャンケン戦略インターフェース。

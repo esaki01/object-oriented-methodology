@@ -1,4 +1,4 @@
-package structured.janken;
+package janken.version1;
 
 /**
  * オブジェクト指向を使用しないジャンケンプログラム.

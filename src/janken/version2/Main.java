@@ -1,4 +1,4 @@
-package objectoriented.janken.version1;
+package janken.version2;
 
 /**
  * オブジェクト指向によるジャンケンプログラム.

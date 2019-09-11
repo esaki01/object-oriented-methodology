@@ -1,4 +1,4 @@
-package objectoriented.janken.version2;
+package janken.version4;
 
 /**
  * ジャンケンの審判を表すクラス.

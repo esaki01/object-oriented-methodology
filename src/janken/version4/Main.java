@@ -1,7 +1,7 @@
-package objectoriented.janken.version3;
+package janken.version4;
 
-import objectoriented.janken.version3.tactics.impl.AskTactics;
-import objectoriented.janken.version3.tactics.impl.RandomTactics;
+import janken.version4.tactics.impl.AskTactics;
+import janken.version4.tactics.impl.RandomTactics;
 
 /**
  * インターフェスを用いてプレイヤーに戦略を持たせたジャンケンプログラム.

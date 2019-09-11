@@ -1,4 +1,4 @@
-package objectoriented.janken.version2;
+package janken.version3;
 
 /**
  * プレイヤーを継承した手塚さんクラス.

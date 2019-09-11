@@ -1,6 +1,6 @@
-package objectoriented.janken.version3;
+package janken.version4;
 
-import objectoriented.janken.version3.tactics.Tactics;
+import janken.version4.tactics.Tactics;
 
 /**
  * ジャンケンのプレイヤーを表すクラス.

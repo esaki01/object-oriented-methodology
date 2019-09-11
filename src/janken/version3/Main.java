@@ -1,4 +1,4 @@
-package objectoriented.janken.version2;
+package janken.version3;
 
 /**
  * 継承を用いてプレイヤーごとに手の出し方を変更可能にしたジャンケンプログラム.

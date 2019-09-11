@@ -1,4 +1,4 @@
-package objectoriented.janken.version1;
+package janken.version3;
 
 /**
  * ジャンケンのプレイヤーを表すクラス.
