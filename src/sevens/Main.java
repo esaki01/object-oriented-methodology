@@ -29,7 +29,6 @@ public class Main {
 
         // ゲームを開始する
         master.startGame();
-
     }
 
     /**
@@ -51,4 +50,3 @@ public class Main {
         return trump;
     }
 }
-
