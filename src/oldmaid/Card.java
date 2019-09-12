@@ -1,4 +1,4 @@
-package babanuki.version1;
+package oldmaid;
 
 /**
  * トランプのカードを表すクラス.
