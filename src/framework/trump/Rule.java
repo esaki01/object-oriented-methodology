@@ -12,6 +12,6 @@ public interface Rule {
      * @param table テーブル
      * @return 見つかったカードの組み合わせ. 見つからなかった場合はnullを返す.
      */
-    public Card[] findCandidate(Hand hand, Table table);
+    Card[] findCandidate(Hand hand, Table table);
 }
 

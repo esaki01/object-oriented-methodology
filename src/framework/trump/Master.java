@@ -68,12 +68,10 @@ public class Master {
      * @param winner 上がったプレイヤー
      */
     public void declareWin(Player winner) {
-        // 上がったプレイヤー
         System.out.println("  " + winner + "さんが上がりました！");
 
         // 上がったプレイヤーをリストからはずす
         deregisterPlayer(winner);
-
     }
 
     /**
@@ -82,7 +80,6 @@ public class Master {
      * @param player 参加するプレイヤー
      */
     public void registerPlayer(Player player) {
-        // リストに参加者を追加する
         players.add(player);
     }
 
@@ -93,7 +90,6 @@ public class Master {
      * @param player 削除するプレイヤー
      */
     public void deregisterPlayer(Player player) {
-        // リストに参加者を追加する
         players.remove(players.indexOf(player));
 
         // 残りプレイヤーが１人になった時は敗者を表示する

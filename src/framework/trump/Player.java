@@ -42,7 +42,7 @@ public abstract class Player {
     public abstract void play(Player nextPlayer);
 
     /**
-     * カードを配る.
+     * カードを受け取る.
      *
      * @param card 受け取ったカード
      */
