@@ -1,5 +1,5 @@
 # Object Oriented Programming Java
-This is for understanding "object oriented programming".
+This repository is for understanding "Object Oriented Programming".
 
 ## Details
 To deepen the understanding of "object oriented programming", refactor the implementation as "structured programming", implement framework and design pattern, etc.
