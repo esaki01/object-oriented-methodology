@@ -1,13 +1,13 @@
-# Object Oriented Programming Java
-This repository is for understanding "Object Oriented Programming".
+# oop-java
+>This repository is for understanding "Object Oriented Programming".
 
-## Details
+## Overview
 To deepen the understanding of "object oriented programming", refactor the implementation as "structured programming", implement framework and design pattern, etc.
 
-## Java Version
+## Java version
 - Java 8
 
-## Memo
+## Notes
 - [オブジェクト指向でなぜつくるのか](https://esa-pages.io/p/sharing/13096/posts/64/5745fe71af69337db12a.html)
 
 ## Reference
